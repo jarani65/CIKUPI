@@ -1,0 +1,2 @@
+# CIKUPI
+Käyttäjäkunnossapidon aikataulutus
